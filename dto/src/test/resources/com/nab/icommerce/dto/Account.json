@@ -1,0 +1,9 @@
+{
+  "account": {
+    "userName": "userName",
+    "active": true,
+    "encryptedPassword": "password",
+    "role": "customer",
+    "createdDate": "2021-11-19 15:18:35"
+  }
+}

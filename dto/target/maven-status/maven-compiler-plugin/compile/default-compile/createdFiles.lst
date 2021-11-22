@@ -1,0 +1,10 @@
+com/nab/icommerce/common/ResourceUtils.class
+com/nab/icommerce/dto/Category.class
+com/nab/icommerce/dto/Color.class
+com/nab/icommerce/dto/Product.class
+com/nab/icommerce/dto/OrderDetail.class
+com/nab/icommerce/dto/Account.class
+com/nab/icommerce/dto/Price.class
+com/nab/icommerce/dto/Brand.class
+com/nab/icommerce/common/ObjectToStringBuilder.class
+com/nab/icommerce/dto/Order.class

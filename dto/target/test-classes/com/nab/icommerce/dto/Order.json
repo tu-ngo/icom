@@ -1,0 +1,13 @@
+{
+  "order": {
+    "amount": 102.26,
+    "createdBy": "account_id_1232",
+    "customerAddress": "customerAddress",
+    "customerEmail": "account_id_1232",
+    "customerPhone": "0123-456789",
+    "description": "order from ebay store",
+    "id": "order_id",
+    "orderDate": "2021-11-19 15:18:35",
+    "orderNumber": 123232
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "product": {
+    "code": "i8",
+    "name": "i8 serial",
+    "description": "i8 serial",
+    "imageUrl": "./images/products/bmw_i8_2020.png",
+    "createdDate": "2021-11-19 15:18:35"
+  }
+}

@@ -1,0 +1,6 @@
+com/nab/icommerce/helper/HttpResponseEntityHelper.class
+com/nab/icommerce/RestApiApplication.class
+com/nab/icommerce/controler/BrandController.class
+com/nab/icommerce/helper/UriStructure.class
+com/nab/icommerce/helper/UriStructure$UriStructureSerializer.class
+com/nab/icommerce/controler/ICommerceErrorController.class

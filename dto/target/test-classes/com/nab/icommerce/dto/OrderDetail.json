@@ -1,0 +1,10 @@
+{
+  "orderDetail": {
+    "amount": 4.4,
+    "id": "orderDetail_id",
+    "orderId": "orderId",
+    "price": 2.2,
+    "productCode": "i8",
+    "quantity": 2.0
+  }
+}
